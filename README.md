@@ -7,3 +7,5 @@
 - pip install keras
 - pip3 install --upgrade tensorflow
 - pip install pillow
+
+### thanks to [https://github.com/datamagic2020/Emotion_detection_with_CNN](https://github.com/datamagic2020/Emotion_detection_with_CNN)
